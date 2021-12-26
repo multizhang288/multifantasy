@@ -1,8 +1,9 @@
 ---
-widget: hero
-widget_id: my-widget-123
+widget: blank
+widget_id: test
 headless: true
 weight: 10
+title: Test
 active: true
 design:
   columns: "2"
